@@ -1,5 +1,3 @@
-# Saisha-Hemrajani
-
 Where data meets strategy: I'm a Business-Savvy Analyst. And would assist in data-driven decision making, for organizations.
 
 My cross-sector experience (during my Masters & employment in the US, and now in India), helped me to expand my business domain knowledge / familiarity. 
