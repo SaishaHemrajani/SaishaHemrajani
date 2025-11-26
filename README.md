@@ -12,6 +12,8 @@ With a Master’s in Business Analytics from Drexel University(USA) and Bachelor
 
 **•Platforms:** Microsoft Azure, Azure Data Factory
 
+**•Finance:** Financial Reporting, Financial Analysis, Forecasting (ARIMA, Excel models)
+
 **•Skills:** Data Cleaning, Data Modeling, Visualization, Financial Modeling, Statistical Analysis, Power Query
 
 **📫 Let's Connect**
