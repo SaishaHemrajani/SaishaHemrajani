@@ -6,15 +6,15 @@ With a Master’s in Business Analytics from Drexel University(USA) and Bachelor
 
 **🛠️ Tech Stack:**
 
-**•Languages:** SQL, Python
+**Languages:** SQL, Python
 
-**•Tools:** Power BI, Tableau, Zoho Analytics, MS Excel
+**Tools:** Power BI, Tableau, Zoho Analytics, MS Excel
 
-**•Platforms:** Microsoft Azure, Azure Data Factory
+**Platforms:** Microsoft Azure, Azure Data Factory
 
-**•Finance:** Financial Reporting, Financial Analysis, Forecasting (ARIMA, Excel models)
+**Finance:** Financial Reporting, Financial Analysis, Forecasting (ARIMA, Excel models)
 
-**•Skills:** Data Cleaning, Data Modeling, Visualization, Financial Modeling, Statistical Analysis, Power Query
+**Skills:** Data Cleaning, Data Modeling, Visualization, Financial Modeling, Statistical Analysis, Power Query
 
 **📫 Let's Connect**
 Let’s connect and collaborate! Feel free to reach out through:
