@@ -1,8 +1,8 @@
 <h1 align="center">Saisha Hemrajani</h1>
 
-<h2 style="text-align: center">Business-Savvy Analyst</h2>
+<h2 style="text-align: center">Financial Analyst</h2>
 
-With a Master’s in Business Analytics from Drexel University(USA) and Bachelors in Investment Management from University of Mumbai (India), I combine strong analytical skills with a holistic understanding of businesses.
+Pursuing a PGDM in Finance from N. L. Dalmia Institute of Management Studies & Research (India), with a Master’s in Business Analytics from Drexel University (USA) and a background in Investment Management from the University of Mumbai (India).
 
 **🛠️ Tech Stack:**
 
