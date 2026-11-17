@@ -12,9 +12,9 @@ Pursuing a PGDM in Finance from N. L. Dalmia Institute of Management Studies & R
 
 **Platforms:** Microsoft Azure, Azure Data Factory
 
-**Finance:** Financial Reporting, Financial Analysis, Forecasting (ARIMA, Excel models)
+**Finance:** Financial Reporting, Financial Analysis, inancial Modelling, Forecasting (ARIMA, Excel models), Equity Valuation, Financial Forecasting, Risk Assessment, Statistical Analysis
 
-**Skills:** Data Cleaning, Data Modeling, Visualization, Financial Modeling, Statistical Analysis, Power Query
+**Skills:** Data Cleaning, Data Modeling, Data Visualization, Financial Modeling, Statistical Analysis, Power Query, ETL Pipelines
 
 **📫 Let's Connect**
 Let’s connect and collaborate! Feel free to reach out through:
